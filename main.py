@@ -1,6 +1,6 @@
-📁 Conexoes/
-├── main.py
-├── config.json
-├── requirements.txt
-├── .gitignore
-└── README.md
+Conexoes/
+ main.py
+ config.json
+ requirements.txt
+ .gitignore
+ README.md
