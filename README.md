@@ -1,4 +1,4 @@
-# Conexoes 🤖
+# Conexoes 
 
 Bot automatizado que lê links de uma planilha, encurta com ShrinkEarn e publica automaticamente em canais do Telegram. Feito com Python.
 
