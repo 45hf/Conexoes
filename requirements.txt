@@ -1,11 +1,5 @@
-python-telegram-bot==20.7
-requests
 gspread
+requests
 oauth2client
-
+python-telegram-bot==20.7
 telegram
-apscheduler
-pytz
-python-dotenv
-nest-asyncio
-aiohttp
